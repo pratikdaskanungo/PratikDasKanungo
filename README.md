@@ -2,9 +2,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Pratik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-das-kanungo-43625a181/)](https://www.linkedin.com/in/pratik-das-kanungo-43625a181/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Pratik-yellow)](https://stackoverflow.com/users/16331549/pratik-das-kanungo-)
 
-I'm
-Pursuing my BSC in Information Technology and Management.
-Web technology has been my interest and Iam currently working hard to be a Full-Stack Devevloper, I've got my chance to work and learn  under Ekeeda. I have knowledge on Python but I am more interested to work as a Fullstack Web developer. I have knowledge on HTML5,CSS3, bootstrap5, Javascript, ReactJS(Front-end) till now but soon be able to gain much more knowledge than this and I know how to deploy a project via Heroku, Netlify and Firebase.
+I have completed my Bachelor of Science in Information Technology and Management, with a strong passion for web technologies. I am actively working towards becoming a Full-Stack Developer and have had the opportunity to gain hands-on experience through my work with Ekeeda. While I possess foundational knowledge in Python, my primary focus is on Full-Stack Web Development.
+
+I have developed proficiency in front-end technologies, including HTML5, CSS3, Bootstrap 5, JavaScript, and ReactJS, and am continually expanding my expertise. Additionally, I am experienced in deploying web projects using platforms like Heroku, Netlify, and Firebase. I am committed to broadening my technical skills and am eager to contribute to innovative web development projects.
+
 
 
 
